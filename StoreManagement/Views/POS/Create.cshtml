@@ -1,0 +1,24 @@
+﻿@model StoreManagementApp.Models.Transaction
+
+<h2>New Transaction</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="ProductId">Product</label>
+        <select asp-for="ProductId" class="form-control" asp-items="@(new SelectList(ViewBag.Products, "Id", "Name"))">
+            <option value="">Select a product</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Quantity">Quantity</label>
+        <input asp-for="Quantity" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="IsPurchase">Transaction Type</label>
+        <select asp-for="IsPurchase" class="form-control">
+            <option value="true">Purchase (Add to Stock)</option>
+            <option value="false">Sale (Reduce Stock)</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

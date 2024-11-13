@@ -1,0 +1,90 @@
+﻿@model IEnumerable<StoreManagementApp.Models.Product>
+
+<h2>POS - Available Products</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price.ToString("C")</td>
+                <td>@product.Stock</td>
+                <td>
+                    <input type="number" min="1" max="@product.Stock" value="1" id="quantity-@product.Id" />
+                </td>
+                <td>
+                    <button type="button" onclick="addToCart(@product.Id)" class="btn btn-success">Add to Cart</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Cart button with item count -->
+<a href="@Url.Action("Cart", "POS")" class="btn btn-primary" id="goToCartBtn">Go to Cart (<span id="cartItemCount">0</span>)</a>
+
+<!-- Modal for success/error messages -->
+<div class="modal fade" id="cartModal" tabindex="-1" role="dialog" aria-labelledby="cartModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="cartModalLabel">Item Added to Cart</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="modalMessage">
+                <!-- Success or error message will be injected here -->
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" aria-label="Close" id="closeModalBtn">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<script>
+    // Add item to the cart and refresh the page
+    function addToCart(productId) {
+        const quantity = document.getElementById(`quantity-${productId}`).value;
+        const url = `@Url.Action("AddToCart", "POS")?productId=${productId}&quantity=${quantity}`;
+
+        $.get(url, function (data) {
+            if (data.success) {
+                // On success, show success message in modal
+                $('#modalMessage').text(data.message);
+                $('#cartModal').modal('show');  // Show the modal
+            } else {
+                // On failure, show error message in modal
+                $('#modalMessage').text(data.message);
+                $('#cartModal').modal('show');  // Show the modal
+            }
+        });
+    }
+
+    // Refresh the page when the modal is closed
+    $('#closeModalBtn').on('click', function () {
+        location.reload();  // Reload the page when the modal is closed
+    });
+
+    // Initial cart count update when the page loads
+    $(document).ready(function () {
+        // Initially update cart item count
+        $.get('@Url.Action("GetCartItemCount", "POS")', function (data) {
+            $('#cartItemCount').text(data);
+        });
+    });
+</script>

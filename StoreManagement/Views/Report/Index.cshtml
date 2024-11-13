@@ -1,0 +1,22 @@
+﻿@model IEnumerable<StoreManagementApp.Models.Report>
+
+<h2>Daily Sales Report</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Total Sales</th>
+            <th>Total Revenue</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model)
+        {
+            <tr>
+                <td>@report.Date</td>
+                <td>@report.TotalSales</td>
+                <td>@report.TotalRevenue.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
