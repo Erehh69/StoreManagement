@@ -3,6 +3,17 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome to StoreManagement</h1>
+    <p>Manage your store more efficiently with <strong>StoreManagement</strong> — your ultimate solution for inventory, transactions, and reports.</p>
+    <p>Get started by exploring our features:</p>
+
+    <div class="list-group">
+        <a href="@Url.Action("Index", "Product")" class="list-group-item list-group-item-action">
+            Add and manage products
+        </a>
+        <a href="@Url.Action("Index", "Report")" class="list-group-item list-group-item-action">
+            Generate insightful reports
+        </a>
+    </div>
+
 </div>

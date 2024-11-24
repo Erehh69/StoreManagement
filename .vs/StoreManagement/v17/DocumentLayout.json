@@ -3,48 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\pos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\pos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\pos\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\pos\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\pos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\pos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\pos\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\pos\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\storemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\storemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,32 +95,8 @@
       "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C8451F-C0A9-4A2D-B161-A3F503AA7346}|StoreManagement\\StoreManagement.csproj|c:\\users\\hilal\\source\\repos\\storemanagement\\storemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -98,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,59 +126,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T11:52:35.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "POSController.cs",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\POSController.cs",
-              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\POSController.cs",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\POSController.cs",
-              "RelativeToolTip": "StoreManagement\\Controllers\\POSController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAIwHQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:30:15.908Z",
+              "Title": "FAQ.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\FAQ.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Home\\FAQ.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\FAQ.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Home\\FAQ.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T09:01:57.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T09:01:32.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T11:52:42.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Models\\CartItem.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:24:24.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Helpers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "StoreManagement\\Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:28:55.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StoreManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:00:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:53:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StoreManagement\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StoreManagement\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAALIAAAAAAAAAAAAkwMIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T09:35:14.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\POS\\Index.cshtml",
               "RelativeDocumentMoniker": "StoreManagement\\Views\\POS\\Index.cshtml",
               "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\POS\\Index.cshtml",
               "RelativeToolTip": "StoreManagement\\Views\\POS\\Index.cshtml",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-11T09:35:15.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "StoreManagement\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:34:49.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\POS\\Cart.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement\\Views\\POS\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\POS\\Cart.cshtml",
-              "RelativeToolTip": "StoreManagement\\Views\\POS\\Cart.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T15:34:52.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "StoreManagement\\Views\\Product\\Delete.cshtml",
@@ -170,12 +264,107 @@
               "RelativeToolTip": "StoreManagement\\Views\\Product\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T08:35:45.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T08:35:45.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Report\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T09:15:31.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:34:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:35:11.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\POS\\Cart.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\POS\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\POS\\Cart.cshtml",
+              "RelativeToolTip": "StoreManagement\\Views\\POS\\Cart.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:34:52.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Data\\StoreContext.cs",
+              "RelativeToolTip": "StoreManagement\\Data\\StoreContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:32:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Program.cs",
+              "RelativeToolTip": "StoreManagement\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:41:47.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
+              "RelativeDocumentMoniker": "StoreManagement\\StoreManagement.csproj",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
+              "RelativeToolTip": "StoreManagement\\StoreManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T07:18:47.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "POSController.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\POSController.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\POSController.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\POSController.cs",
+              "RelativeToolTip": "StoreManagement\\Controllers\\POSController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAIwHQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:30:15.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "StoreManagement\\Controllers\\ProductController.cs",
@@ -183,38 +372,11 @@
               "RelativeToolTip": "StoreManagement\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAD4v4QAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:32:43.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T08:32:43.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "StoreManagement\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:35:11.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Program.cs",
-              "RelativeDocumentMoniker": "StoreManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Program.cs",
-              "RelativeToolTip": "StoreManagement\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:41:47.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Models\\Product.cs",
               "RelativeDocumentMoniker": "StoreManagement\\Models\\Product.cs",
@@ -226,31 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Helpers\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "StoreManagement\\Helpers\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Helpers\\SessionExtensions.cs",
-              "RelativeToolTip": "StoreManagement\\Helpers\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:28:55.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "StoreManagement\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Models\\CartItem.cs",
-              "RelativeToolTip": "StoreManagement\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:24:24.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Report.cs",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Models\\Report.cs",
               "RelativeDocumentMoniker": "StoreManagement\\Models\\Report.cs",
@@ -262,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "StoreManagement\\Models\\Transaction.cs",
@@ -274,19 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Data\\StoreContext.cs",
-              "RelativeDocumentMoniker": "StoreManagement\\Data\\StoreContext.cs",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Data\\StoreContext.cs",
-              "RelativeToolTip": "StoreManagement\\Data\\StoreContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:32:05.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "ReportController.cs",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\ReportController.cs",
               "RelativeDocumentMoniker": "StoreManagement\\Controllers\\ReportController.cs",
@@ -298,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "20241111105147_ConfigureDecimalPrecision.cs",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Migrations\\20241111105147_ConfigureDecimalPrecision.cs",
               "RelativeDocumentMoniker": "StoreManagement\\Migrations\\20241111105147_ConfigureDecimalPrecision.cs",
@@ -310,67 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "StoreManagement\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T08:53:53.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Report\\Index.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement\\Views\\Report\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Report\\Index.cshtml",
-              "RelativeToolTip": "StoreManagement\\Views\\Report\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T09:15:31.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "StoreManagement\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:00:54.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FAQ.cshtml",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\FAQ.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement\\Views\\Home\\FAQ.cshtml",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\FAQ.cshtml",
-              "RelativeToolTip": "StoreManagement\\Views\\Home\\FAQ.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T09:01:57.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AboutUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\AboutUs.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement\\Views\\Home\\AboutUs.cshtml",
-              "ToolTip": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\Views\\Home\\AboutUs.cshtml",
-              "RelativeToolTip": "StoreManagement\\Views\\Home\\AboutUs.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T09:01:32.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\StoreManagement\\StoreManagement\\appsettings.json",
               "RelativeDocumentMoniker": "StoreManagement\\appsettings.json",

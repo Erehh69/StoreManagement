@@ -141,3 +141,4 @@ C:\Users\hilal\source\repos\StoreManagement\StoreManagement\obj\Debug\net8.0\Sto
 C:\Users\hilal\source\repos\StoreManagement\StoreManagement\obj\Debug\net8.0\StoreManagement.genruntimeconfig.cache
 C:\Users\hilal\source\repos\StoreManagement\StoreManagement\obj\Debug\net8.0\ref\StoreManagement.dll
 C:\Users\hilal\source\repos\StoreManagement\StoreManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hilal\source\repos\StoreManagement\StoreManagement\obj\Debug\net8.0\StoreManagement.sourcelink.json
